@@ -1,0 +1,6 @@
+Phone payment process
+1 open a new account in a bank
+2 apply for atm 
+3 install phonepay app
+4 link atm with phonepay
+5 scan and pay
